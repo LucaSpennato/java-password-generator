@@ -32,6 +32,7 @@ public class PasswordGenerator {
 		System.out.println("La tua password:" + "\r" + userPassword);
 		
 		
+		
 	}
 	
 }
