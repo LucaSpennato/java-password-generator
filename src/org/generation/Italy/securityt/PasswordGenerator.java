@@ -27,7 +27,7 @@ public class PasswordGenerator {
 		int userYear = sc.nextInt();
 		
 		
-		String userPassword = userName + "-" + userColor + "-" + (userMonth + userYear) ;
+		String userPassword = userName + "-" + userColor + "-" + (userDay + userMonth + userYear) ;
 		
 		System.out.println("La tua password:" + "\r" + userPassword);
 		
